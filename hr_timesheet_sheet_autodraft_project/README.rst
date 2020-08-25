@@ -25,7 +25,7 @@ HR Timesheet Sheet Auto-draft: Project
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
-This module adds support per-project Timesheet Sheets auto-drafting.
+This module adds support per-project Timesheet Sheets auto-drafting (what does "auto-drafting" mean?).
 
 **Table of contents**
 
